@@ -1,4 +1,4 @@
-- 👋 Hi, I'm Zane, a Data Analyst and AI Researcher with over two years of experience at a major tech company. I'm passionate about uncovering insights from data and applying cutting-edge AI technologies to solve real-world problems.
+👋 Hi, I'm Zane, a Data Analyst and AI Researcher with over two years of experience at a major tech company. I'm passionate about uncovering insights from data and applying cutting-edge AI technologies to solve real-world problems.
 
 - 🔭 I’m currently working on: Developing innovative AI applications as an indie maker at Meta and exploring digital nomadism.
 
