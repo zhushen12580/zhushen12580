@@ -1,10 +1,3 @@
-## Hi there 👋
-
-<!--
-**zhushen12580/zhushen12580** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 👋 Hi, I'm Zane, a Data Analyst and AI Researcher with over two years of experience at a major tech company. I'm passionate about uncovering insights from data and applying cutting-edge AI technologies to solve real-world problems.
 
 - 🔭 I’m currently working on: Developing innovative AI applications as an indie maker at Meta and exploring digital nomadism.
@@ -24,4 +17,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I believe technology can change everything, and I'm on a mission to make a global impact with my innovations.
 
 - 🌍 Let's connect and explore the future together! ✨
--->
