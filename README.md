@@ -10,9 +10,7 @@
 
 - 💬 Ask me about: Artificial Intelligence, developer tools, and the digital nomad lifestyle.
 
-- 📫 How to reach me: [Your preferred contact method]
-
-- 😄 Pronouns: He/Him
+- 📫 How to reach me: wechat
 
 - ⚡ Fun fact: I believe technology can change everything, and I'm on a mission to make a global impact with my innovations.
 
