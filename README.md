@@ -6,7 +6,7 @@
 
 - 👯 I’m looking to collaborate on: Projects that intersect data analysis, AI, and innovative tech solutions.
 
-- 🤔 I’m looking for help with: Expanding the reach of my project, [llmgpuhelper.com](https://llmgpuhelper.com)、[Precision Screenshot](https://puzzledu.com/shot)
+- 🤔 I’m looking for help with: Expanding the reach of my project, [llmgpuhelper.com](https://llmgpuhelper.com)、[Precision Screenshot](https://puzzledu.com/shot)、[SceneSay](https://scenesay.com)
 
 - 💬 Ask me about: Artificial Intelligence, developer tools, and the digital nomad lifestyle.
 
